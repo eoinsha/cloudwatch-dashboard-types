@@ -2,13 +2,15 @@
   "name": "cloudwatch-dashboard-types",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "lint": "eslint **/*.ts",
-    "prepublish": "npm run build",
+    "prepack": "npm run build",
     "test": "tsc --noEmit && npm run lint"
   },
+  "files": [
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "MIT",
