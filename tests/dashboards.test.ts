@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable no-template-curly-in-string */
-import type { Dashboard } from '..'
+import type { Dashboard } from '../index'
 
 /**
  * Example from https://github.com/aws-samples/cloudwatch-dashboards-cloudformation-sample/blob/master/cloudformation/dashboard.json

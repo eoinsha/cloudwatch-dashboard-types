@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { type Widget } from '..'
+import { type Widget } from '../lib/widget'
 
 const a: Widget = {
   type: 'alarm',

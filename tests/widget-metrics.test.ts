@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { type WidgetMetric } from '..'
+import { type WidgetMetric } from '../lib/widget'
 
 const a: WidgetMetric = ['AWS/EC2', 'CPUUtilization']
 

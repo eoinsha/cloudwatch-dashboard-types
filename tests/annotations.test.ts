@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { type AnnotationProperties } from '..'
+import { type AnnotationProperties } from '../lib/annotation'
 
 const a: AnnotationProperties = {
   horizontal: [
