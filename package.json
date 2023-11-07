@@ -1,6 +1,6 @@
 {
   "name": "cloudwatch-dashboard-types",
-  "version": "1.0.0-rc1",
+  "version": "1.0.1-rc2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,12 @@
     "type": "git",
     "url": "git+https://github.com/eoinsha/cloudwatch-dashboard-types.git"
   },
-  "keywords": ["aws", "cloudwatch", "dashboard", "types"],
+  "keywords": [
+    "aws",
+    "cloudwatch",
+    "dashboard",
+    "types"
+  ],
   "scripts": {
     "build": "tsc",
     "lint": "eslint **/*.ts",
