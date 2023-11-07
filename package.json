@@ -1,6 +1,6 @@
 {
   "name": "cloudwatch-dashboard-types",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
