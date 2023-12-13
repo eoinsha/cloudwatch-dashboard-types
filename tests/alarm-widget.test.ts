@@ -40,3 +40,15 @@ const b: Widget = {
     title: 'EC2 alarms that are not currently OK'
   }
 }
+
+const textWidget: Widget = {
+  type: 'text',
+  x: 0,
+  y: 0,
+  width: 24,
+  height: 6,
+  properties: {
+    markdown: '# Hello World',
+    transparent: true
+  }
+}

@@ -95,6 +95,7 @@ export interface LogWidgetProperties {
 
 export interface TextWidgetProperties {
   markdown: string
+  transparent?: boolean
 }
 
 export enum AlarmWidgetSortBy {
